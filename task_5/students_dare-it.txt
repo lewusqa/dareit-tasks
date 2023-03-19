@@ -1,0 +1,8 @@
+|id |lastname    |firstname  |email                   |city     |age|
+|---|------------|-----------|------------------------|---------|---|
+|0  |Agata       |Lewandowska|lewandowaga@gmail.com   |Bydgoszcz|34 |
+|1  |Kowalski    |Michał     |kowal@gmail.com         |Gdynia   |34 |
+|2  |Pudzianowski|Marek      |pudzianowskima@gmail.com|Toronto  |45 |
+|3  |Kowalski    |Michał     |kowalskimi@gmail.com    |Bydgoszcz|21 |
+|4  |Zwolak      |Paweł      |pawelzwolaa@gmail.com   |Gdynia   |27 |
+|5  |Rawilski    |Jacek      |prawijacek@gmail.com    |Warszawa |41 
