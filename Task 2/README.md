@@ -1,0 +1,1 @@
+Hosted a static website in a GCS bucket.

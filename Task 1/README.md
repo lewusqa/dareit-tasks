@@ -1,0 +1,1 @@
+I got a command to list enabled services in the project.

@@ -1,0 +1,1 @@
+Created Compute Engine instance that can be accessed over the internet, and installed web server on it.
